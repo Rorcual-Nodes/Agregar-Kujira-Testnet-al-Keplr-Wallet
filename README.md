@@ -2,7 +2,7 @@
 
 Puedes seguir esta guía en cualquier navegador que admita la extensión de Keplr Wallet (Chrome, Brave, etc.)
 
-Agradecer a ``Jack the Bulldog`` de ``Pupmos Network`` por sus extremos ``REST`` y ``RPC`` . Los usaremos en el código para añadir Kujira Testnet al Keplr Wallet. También agradecer a Aries de Synergy Nodes por dejarnos proceder a la traducción de su guía.
+Agradecer a ``Jack the Bulldog`` de ``Pupmos Network`` por sus extremos ``REST`` y ``RPC`` . Los usaremos en el código para añadir Kujira Testnet al Keplr Wallet. También agradecer a ``Aries`` de ``Synergy Nodes`` por dejarnos proceder a la traducción de su guía.
 
 ## 1) Abre Keplr wallet, click derecho sobre el y haz click en ``Inspeccionar``.
 
