@@ -81,7 +81,7 @@ window.keplr.experimentalSuggestChain({
 
 ![](https://www.synergynodes.com/images/kujira-testnet-keplr/Kujira-Testnet-Keplr-06-min.png)
 
-## 9) Ya tienes el wallet configurado y listo para utilizar.
+## 9) Ya tienes el wallet configurado y listo para utilizar. La dirección que aparece es tu dirección de la Blockchain de Kujira.
 
 NOTE: Después de añadir Kujira Testnet, puedes importar cualquier wallet con un mnemonic seed si no lo has hecho ya.
 
